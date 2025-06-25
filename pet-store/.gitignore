@@ -1,0 +1,17 @@
+# React
+/node_modules
+/.env
+/build
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+
+# Дополнительные файлы
+*.log
+*.tmp
+*.bak
+EOF
